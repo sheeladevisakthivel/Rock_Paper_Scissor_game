@@ -28,4 +28,4 @@ The computer also makes a random choice, and then the winner is decided based on
 2. Make sure you have Python installed
 3. Run the game in your terminal:
 ```bash
-python game.py
+python Rock_Paper_Stone_game.py
